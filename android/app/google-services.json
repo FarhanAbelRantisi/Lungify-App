@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952270272755",
+    "project_id": "healthbot-app",
+    "storage_bucket": "healthbot-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952270272755:android:4062263aa95dd1205cdf86",
+        "android_client_info": {
+          "package_name": "com.example.healthbot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVUQKcUlTfsJkpB9sB1WeJlfHPQo1txE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

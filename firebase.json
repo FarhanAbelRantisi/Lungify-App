@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"healthbot-app","appId":"1:952270272755:android:4062263aa95dd1205cdf86","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"healthbot-app","configurations":{"android":"1:952270272755:android:4062263aa95dd1205cdf86","ios":"1:952270272755:ios:bd86b06eb2fc4c785cdf86"}}}}}}
