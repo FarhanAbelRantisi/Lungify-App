@@ -1,4 +1,4 @@
-# healthbot_app
+# Lungify
 
 A new Flutter project.
 
